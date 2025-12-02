@@ -1,0 +1,89 @@
+bank,themes,count
+BOA,Account Access Issues,5
+BOA,"Account Access Issues, Customer Support",1
+BOA,"Account Access Issues, Customer Support, Feature Requests",2
+BOA,"Account Access Issues, Customer Support, Reliability / Bugs, User Interface & Experience",1
+BOA,"Account Access Issues, Customer Support, Transaction Performance",1
+BOA,"Account Access Issues, Feature Requests",1
+BOA,"Account Access Issues, Feature Requests, Reliability / Bugs",1
+BOA,"Account Access Issues, Feature Requests, Reliability / Bugs, User Interface & Experience",1
+BOA,"Account Access Issues, Feature Requests, Transaction Performance, User Interface & Experience",1
+BOA,"Account Access Issues, Reliability / Bugs",4
+BOA,"Account Access Issues, Transaction Performance",3
+BOA,Customer Support,19
+BOA,"Customer Support, Feature Requests",3
+BOA,"Customer Support, Feature Requests, Reliability / Bugs",1
+BOA,"Customer Support, Feature Requests, Reliability / Bugs, Transaction Performance, User Interface & Experience",4
+BOA,"Customer Support, Feature Requests, Reliability / Bugs, User Interface & Experience",3
+BOA,"Customer Support, Feature Requests, User Interface & Experience",2
+BOA,"Customer Support, Reliability / Bugs",1
+BOA,"Customer Support, Reliability / Bugs, User Interface & Experience",1
+BOA,"Customer Support, Transaction Performance",2
+BOA,"Customer Support, Transaction Performance, User Interface & Experience",1
+BOA,"Customer Support, User Interface & Experience",4
+BOA,Feature Requests,16
+BOA,"Feature Requests, Reliability / Bugs",1
+BOA,"Feature Requests, Reliability / Bugs, User Interface & Experience",2
+BOA,"Feature Requests, Transaction Performance",3
+BOA,"Feature Requests, User Interface & Experience",7
+BOA,Other,372
+BOA,Reliability / Bugs,11
+BOA,"Reliability / Bugs, Transaction Performance",4
+BOA,"Reliability / Bugs, User Interface & Experience",3
+BOA,Transaction Performance,22
+BOA,"Transaction Performance, User Interface & Experience",1
+BOA,User Interface & Experience,20
+CBE,Account Access Issues,7
+CBE,"Account Access Issues, Customer Support",1
+CBE,"Account Access Issues, Feature Requests, Reliability / Bugs, Transaction Performance, User Interface & Experience",1
+CBE,"Account Access Issues, Reliability / Bugs",3
+CBE,"Account Access Issues, Reliability / Bugs, Transaction Performance",1
+CBE,Customer Support,15
+CBE,"Customer Support, Feature Requests",2
+CBE,"Customer Support, Reliability / Bugs, Transaction Performance, User Interface & Experience",1
+CBE,"Customer Support, Reliability / Bugs, User Interface & Experience",1
+CBE,"Customer Support, Transaction Performance",2
+CBE,"Customer Support, User Interface & Experience",1
+CBE,Feature Requests,10
+CBE,"Feature Requests, Transaction Performance",1
+CBE,"Feature Requests, Transaction Performance, User Interface & Experience",1
+CBE,"Feature Requests, User Interface & Experience",1
+CBE,Other,395
+CBE,Reliability / Bugs,8
+CBE,"Reliability / Bugs, Transaction Performance",2
+CBE,Transaction Performance,17
+CBE,User Interface & Experience,5
+Dashen,Account Access Issues,5
+Dashen,"Account Access Issues, Customer Support",1
+Dashen,"Account Access Issues, Customer Support, Feature Requests",2
+Dashen,"Account Access Issues, Customer Support, Reliability / Bugs, User Interface & Experience",1
+Dashen,"Account Access Issues, Customer Support, Transaction Performance",1
+Dashen,"Account Access Issues, Feature Requests",1
+Dashen,"Account Access Issues, Feature Requests, Reliability / Bugs",1
+Dashen,"Account Access Issues, Feature Requests, Reliability / Bugs, User Interface & Experience",1
+Dashen,"Account Access Issues, Feature Requests, Transaction Performance, User Interface & Experience",1
+Dashen,"Account Access Issues, Reliability / Bugs",4
+Dashen,"Account Access Issues, Transaction Performance",3
+Dashen,Customer Support,19
+Dashen,"Customer Support, Feature Requests",3
+Dashen,"Customer Support, Feature Requests, Reliability / Bugs",1
+Dashen,"Customer Support, Feature Requests, Reliability / Bugs, Transaction Performance, User Interface & Experience",4
+Dashen,"Customer Support, Feature Requests, Reliability / Bugs, User Interface & Experience",3
+Dashen,"Customer Support, Feature Requests, User Interface & Experience",2
+Dashen,"Customer Support, Reliability / Bugs",1
+Dashen,"Customer Support, Reliability / Bugs, User Interface & Experience",1
+Dashen,"Customer Support, Transaction Performance",2
+Dashen,"Customer Support, Transaction Performance, User Interface & Experience",1
+Dashen,"Customer Support, User Interface & Experience",4
+Dashen,Feature Requests,16
+Dashen,"Feature Requests, Reliability / Bugs",1
+Dashen,"Feature Requests, Reliability / Bugs, User Interface & Experience",2
+Dashen,"Feature Requests, Transaction Performance",3
+Dashen,"Feature Requests, User Interface & Experience",7
+Dashen,Other,372
+Dashen,Reliability / Bugs,11
+Dashen,"Reliability / Bugs, Transaction Performance",4
+Dashen,"Reliability / Bugs, User Interface & Experience",3
+Dashen,Transaction Performance,22
+Dashen,"Transaction Performance, User Interface & Experience",1
+Dashen,User Interface & Experience,20

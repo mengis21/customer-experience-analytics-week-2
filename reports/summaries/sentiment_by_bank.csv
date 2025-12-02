@@ -1,0 +1,10 @@
+bank,sentiment_label,count
+BOA,negative,44
+BOA,neutral,145
+BOA,positive,335
+CBE,negative,31
+CBE,neutral,212
+CBE,positive,232
+Dashen,negative,44
+Dashen,neutral,145
+Dashen,positive,335
