@@ -1,4 +1,23 @@
-# Byte-compiled / optimized / DLL files
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+*.pyo
+*.env
+.DS_Store
+
+# Data and artifacts
+data/*.csv
+data/*.parquet
+reports/*.pdf
+
+# VS Code
+.vscode/
+
+# Exclude sample technical content (not part of deliverables)
+Samples - Technical Content/# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
