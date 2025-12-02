@@ -15,6 +15,8 @@ venv/
 data/*.csv
 data/*.parquet
 reports/*.pdf
+*.env
+.env
 
 # VS Code
 .vscode/
