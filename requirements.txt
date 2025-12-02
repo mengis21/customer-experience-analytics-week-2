@@ -9,3 +9,5 @@ textblob==0.18.0
 spacy==3.7.2
 # transformers optional for DistilBERT; can be added later
 # transformers==4.44.2
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
