@@ -16,6 +16,10 @@ Results (Short)
 - Common themes show access issues, performance (slow/transfer), reliability (crash), and UI points.
 - Examples visible in the notebook plots.
 
+Key Numbers (from DB verification)
+- Reviews per bank: BOA 1048, Dashen 1048, CBE 950.
+- Average rating across reviews: 4.05.
+
 Drivers & Pain Points (Examples)
 - CBE: fast actions praised; login and timeouts show up.
 - BOA: super app features liked; performance and errors mentioned.
